@@ -1,1 +1,15 @@
 # ML-Projects
+- Load data
+- Data preparation
+- - Data sepeartion as X and Y
+  - Data Splitting
+- Model Building
+- - Linear Regression
+  - Training the model
+  - Applying the model to make a prediction
+  - Evaluate model performance
+- - Random Forest
+  - Training the model
+  - Applying the model to make a prediction
+  - Evaluate model performance
+- Model Comparison
